@@ -1,0 +1,19 @@
+{
+  "name": "mit-yousee_web",
+  "version": "0.0.0",
+  "description": "MitYousee_Web",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {},
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "@percy/cypress": "^2.2.0",
+    "cypress": "^4.0.2",
+    "cypress-plugin-retries": "^1.4.0",
+    "cypress-xpath": "^1.4.0"
+  }
+}
